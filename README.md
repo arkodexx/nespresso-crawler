@@ -18,7 +18,7 @@ Ideal for product analysis, pricing research, and catalog monitoring.
 - Scrapy (no Selenium, no Playwright, minimal overhead)
 - Scrapy-impersonate
 
-## 📥 Installation
+## 📥 Installation & Usage
 
 ```bash
 git clone https://github.com/arkodexx/nespresso-crawler.git
